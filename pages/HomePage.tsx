@@ -31,7 +31,7 @@ const HomePage: React.FC = () => {
       {/* Hero Section */}
       <section className="text-center py-16 bg-white dark:bg-slate-800 rounded-lg shadow-md">
         <h1 className="text-4xl md:text-5xl font-bold text-slate-900 dark:text-white mb-4">
-          Khám phá thế giới Tin học
+          NEW ERA ORIENTATION
         </h1>
         <p className="max-w-2xl mx-auto text-lg text-slate-600 dark:text-slate-400 mb-8">
           Tìm kiếm tài liệu, bài giảng, và đề thi cho Lập trình, Thuật toán, và Tin học văn phòng.
