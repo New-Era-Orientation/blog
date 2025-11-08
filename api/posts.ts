@@ -6,12 +6,14 @@ import { Post, ContentBlock } from '../types';
 //import { tinHoc11Posts } from '../posts/tin-hoc-11';
 import { tinHoc12Posts } from '../posts/tin-hoc-12';
 import { thuatToanVaCtdlPosts } from '../posts/thuat-toan-va-ctdl';
+import { dethithpt } from '../posts/de-thi-thpt';
 //import { deThiPosts } from '../posts/de-thi-dap-an';
 //import { huongDanPosts } from '../posts/huong-dan';
 
 const allMarkdownStrings = [
  // ...tinHoc10Posts,
  // ...tinHoc11Posts,
+  ...dethithpt,
   ...tinHoc12Posts,
   ...thuatToanVaCtdlPosts,
  // ...deThiPosts,
