@@ -111,7 +111,7 @@ downloads: 0
 
 ## Thống kê các thuật toán trong chương trình
 
-### Lớp 3-5: 
+Lớp 3-5: 
 Cộng, trừ, nhân, chia (ngôn ngữ giới HSG gọi là Bignum)
 Tính trung bình cộng
 Sắp xếp đếm (counting sort)
@@ -124,7 +124,6 @@ Tính ước chung lớn nhất, bội chung nhỏ nhất
 ### Lớp 7
 Tính số thập phân vô hạn tuần hoàn
 Thuật toán tìm kiếm tuần tự, thuật toán tìm kiếm nhị phân
-Thuật toán sắp xếp chọn
 
 ### Lớp 8
 Thuật toán sắp xếp nổi bọt
@@ -147,6 +146,7 @@ Thuật toán Karatsuba để nhân đa thức trong O(n^(log_3 (2))
 Cây nhị phân tìm kiếm.
 Quay lui để sinh hoán vị, chỉnh hợp, tổ hợp.
 Danh sách liên kết
+Thuật toán sắp xếp chọn
 
 ### Lớp 12
 Ngăn xếp, hàng đợi
