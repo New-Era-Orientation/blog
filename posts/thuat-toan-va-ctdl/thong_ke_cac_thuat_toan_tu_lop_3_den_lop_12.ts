@@ -31,7 +31,6 @@ Tính ước chung lớn nhất, bội chung nhỏ nhất
 ### Lớp 7
 Tính số thập phân vô hạn tuần hoàn
 Thuật toán tìm kiếm tuần tự, thuật toán tìm kiếm nhị phân
-Thuật toán sắp xếp chọn
 
 ### Lớp 8
 Thuật toán sắp xếp nổi bọt
@@ -50,10 +49,12 @@ Sắp xếp chèn, sắp xếp nổi bọt, sắp xếp nhanh, sắp xếp trộ
 Tính số fibonacci bằng đệ quy
 Tháp Hà Nội
 Tính lũy thừa a^n trong O(log n)
-Thuật toán Karatsuba để nhân đa thức trong O(n^(log_3 (2))
+Thuật toán Karatsuba để nhân đa thức trong O(log2(3))
 Cây nhị phân tìm kiếm.
 Quay lui để sinh hoán vị, chỉnh hợp, tổ hợp.
 Danh sách liên kết
+Các thuật toán sắp xếp như: sắp xếp chọn, sắp xếp nổi bọt, sắp xếp chèn, sắp xếp chọn, sắp xếp nhanh, sắp xếp trộn.
+
 
 ### Lớp 12
 Ngăn xếp, hàng đợi
