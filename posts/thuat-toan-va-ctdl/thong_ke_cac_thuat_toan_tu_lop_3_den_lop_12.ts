@@ -1,8 +1,8 @@
 export const post = `
 ---
 id: "thu671"
-slug: "thong-ke-cac-thuat-toan-tu-lop-3-den-lop-12"
-title: "Thống kê các thuật toán từ lớp 3 đến lớp 12"
+slug: "thong-ke-cac-thuat-toan-trong-chuong-trinh"
+title: "Thống kê các thuật toán trong chương trình"
 excerpt: ""
 author: "Bùi Việt Dũng"
 publishedDate: "2025-11-08"
@@ -16,7 +16,7 @@ attachments: '[]'
 downloads: 0
 ---
 
-## Thống kê các thuật toán từ lớp 3 đến lớp 12
+## Thống kê các thuật toán trong chương trình
 
 Lớp 3-5: 
 Cộng, trừ, nhân, chia (ngôn ngữ giới HSG gọi là Bignum)
