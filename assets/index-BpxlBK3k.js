@@ -111,7 +111,7 @@ downloads: 0
 
 ## Thống kê các thuật toán trong chương trình
 
-Lớp 3-5: 
+### Lớp 3-5: 
 Cộng, trừ, nhân, chia (ngôn ngữ giới HSG gọi là Bignum)
 Tính trung bình cộng
 Sắp xếp đếm (counting sort)
