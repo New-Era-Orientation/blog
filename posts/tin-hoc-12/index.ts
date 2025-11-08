@@ -1,7 +1,7 @@
 // posts/tin-hoc-12/index.ts
 
-import { post as huongNghiep12G } from './12g';
+import { post as chu_de_12g_gioi_thieu_nhom_nghe_dich_vu_va_quan_tri } from './chu-de-12g-gioi-thieu-nhom-nghe-dich-vu-va-quan-tri';
 
 export const tinHoc12Posts = [
-  huongNghiep12G,
+  chu_de_12g_gioi_thieu_nhom_nghe_dich_vu_va_quan_tri,
 ];
