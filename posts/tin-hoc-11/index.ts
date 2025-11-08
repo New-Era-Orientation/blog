@@ -1,6 +1,6 @@
 // posts/tin-hoc-11/index.ts
-import { post as conTroCpp } from './con-tro-trong-cpp';
-import { post as listPython } from './cau-truc-du-lieu-list-trong-python';
+import { post as conTroCpp } from './cpp001';
+import { post as listPython } from './py002';
 
 export const tinHoc11Posts = [
   conTroCpp,

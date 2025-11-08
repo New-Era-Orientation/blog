@@ -1,6 +1,6 @@
 // posts/tin-hoc-van-phong/index.ts
-import { post as hamExcel } from './5-ham-excel-thong-dung-cho-mos';
-import { post as pivotTable } from './meo-su-dung-pivot-table-trong-excel';
+import { post as hamExcel } from './mos001';
+import { post as pivotTable } from './mos002';
 
 export const vanPhongPosts = [
   hamExcel,
