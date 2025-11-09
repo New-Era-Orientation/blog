@@ -15,9 +15,20 @@ const AboutPage: React.FC = () => {
           <li><strong>Xây dựng cộng đồng:</strong> Mang đến các bài tập và đề thi giúp thí sinh củng cố kiến thức và chuẩn bị tốt cho các kỳ thi Tốt nghiệp THPT.</li>
         </ul>
         <h2 className="text-2xl font-bold mt-8 mb-4">Đội ngũ</h2>
-        <p>
-          Đội ngũ của New Era Orientation là những sinh viên từ các đại học như Đại học bách khoa Hà Nội, Học viện công nghệ bưu chính viễn thông, Trường đại học công nghệ, Đại học quốc gia Hà Nội, Viện công nghệ Massachusetts có nhiều kinh nghiệm trong lĩnh vực công nghệ thông tin. Chúng tôi luôn nỗ lực để mang đến những nội dung chất lượng, chính xác và cập nhật nhất.
-        </p>
+          <p>
+  Đội ngũ của New Era Orientation là những sinh viên có nhiều kinh nghiệm trong lĩnh vực công nghệ thông tin đang theo học các đại học sau :
+          </p>
+          <ul>
+            <li>Viện Công nghệ Massachusetts</li>
+            <li>Đại học Bách khoa Hà Nội</li>
+            <li>Học viện Công nghệ Bưu chính Viễn thông</li>
+            <li>Trường Đại học Công nghệ, Đại học Quốc gia Hà Nội</li>
+            <li>Trường Đại học Công nghệ thông tin, Đại học Quốc gia thành phố Hồ Chí Minh</li>
+            <li>Trường đại học RMIT</li>
+          </ul>
+<p>
+  Chúng tôi luôn nỗ lực để mang đến những nội dung chất lượng, chính xác và cập nhật nhất.
+</p>
         <p>
           Cảm ơn bạn đã ghé thăm và hy vọng New Era Orientation sẽ là người bạn đồng hành đáng tin cậy trên con đường chinh phục kiến thức Tin học của bạn!
         </p>
