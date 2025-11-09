@@ -8,7 +8,7 @@ author: "NEO"
 publishedDate: "2025-11-08"
 readTime: 10
 categoryId: "tin-hoc-12"
-tags: '[]'
+tags: '["on-thi-12","tai-lieu-on-tap-thpt"]'
 level: "Cơ bản"
 grade: 12
 language: null

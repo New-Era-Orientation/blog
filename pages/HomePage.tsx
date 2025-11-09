@@ -46,7 +46,7 @@ const HomePage: React.FC = () => {
           />
           <button type="submit" className="px-6 py-4 bg-cyan-600 text-white rounded-r-full hover:bg-cyan-700 transition-colors flex items-center">
             <SearchIcon />
-            <span className="ml-2 hidden md:inline">Tìm kiếm</span>
+            <span className="ml-2 hidden md:inline"></span>
           </button>
         </form>
       </section>
