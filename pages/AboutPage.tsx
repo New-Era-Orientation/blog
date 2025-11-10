@@ -24,7 +24,6 @@ const AboutPage: React.FC = () => {
             <li>Học viện Công nghệ Bưu chính Viễn thông</li>
             <li>Trường Đại học Công nghệ, Đại học Quốc gia Hà Nội</li>
             <li>Trường Đại học Công nghệ thông tin, Đại học Quốc gia thành phố Hồ Chí Minh</li>
-            <li>Trường đại học RMIT</li>
           </ul>
 <p>
   Chúng tôi luôn nỗ lực để mang đến những nội dung chất lượng, chính xác và cập nhật nhất.
