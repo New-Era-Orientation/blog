@@ -12,7 +12,7 @@ tags: '[]'
 level: "Cơ bản"
 grade: 10
 language: null
-attachments: '[{"name":"12D","url":"https://cdn.discordapp.com/attachments/1426419588223995975/1432041670463197245/Chu_e_12D_-_Giao_tiep_tren_khong_gian_mang_-_NEO.pdf?ex=69140b7c&is=6912b9fc&hm=808da43f92083fca1da512315ac699e6d6c00e12ea24c48ee2d9888e9a4353cc&","type":"PDF","size":""}]'
+attachments: '[{"name":"12D","url":"https://drive.google.com/file/d/10G6DQbC8lRtZIfJ7u7ocAJIGXt3pBc5W/view?usp=drive_link","type":"PDF","size":""}]'
 downloads: 0
 ---
 

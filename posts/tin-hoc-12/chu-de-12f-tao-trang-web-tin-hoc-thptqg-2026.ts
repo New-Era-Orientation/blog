@@ -12,7 +12,7 @@ tags: '[]'
 level: "Cơ bản"
 grade: 10
 language: null
-attachments: '[{"name":"**Chủ đề 12F**","url":"https://cdn.discordapp.com/attachments/1426419588223995975/1436713218507673660/Chu_e-12F-ap-an-NEO.pdf?ex=6913e6b4&is=69129534&hm=372af0450872e30df60db03fdf28c102915d8f85979ec38719a04b35489bd558&","type":"PDF","size":""}]'
+attachments: '[{"name":"**Chủ đề 12F**","url":"https://cdn.discordapp.com/attachments/1426419588223995975/1436713218507673660/Chu_e-12F-ap-an-NEO.pdf","type":"PDF","size":""}]'
 downloads: 0
 ---
 

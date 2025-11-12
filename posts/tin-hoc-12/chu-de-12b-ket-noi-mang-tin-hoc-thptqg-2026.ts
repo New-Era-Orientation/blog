@@ -12,7 +12,7 @@ tags: '["on-thi-12","tai-lieu-on-tap-thpt"]'
 level: "Cơ bản"
 grade: 12
 language: null
-attachments: '[{"name":"Chủ đề 12B","url":"https://cdn.discordapp.com/attachments/1426419588223995975/1434206476724998235/Chu_e_12B_-_Mang_may_tinh_-_NEO.pdf?ex=6914029e&is=6912b11e&hm=3e287d6c324158430231c79878b1183924a9339ae0d1387231a4f2da2c6fc201&","type":"PDF","size":""}]'
+attachments: '[{"name":"Chủ đề 12B","url":"https://drive.google.com/file/d/1Eml6uPZNto_DMLR_VEIUupTDSfh_-f-d/view?usp=drive_link","type":"PDF","size":""}]'
 downloads: 0
 ---
 

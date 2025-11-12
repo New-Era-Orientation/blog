@@ -12,7 +12,7 @@ tags: '["on-thi-12","tai-lieu-on-tap-thpt"]'
 level: "Cơ bản"
 grade: 12
 language: null
-attachments: '[{"name":"** Chủ đề 12A **","url":"https://cdn.discordapp.com/attachments/1426419588223995975/1426419736354357298/Chu_e_A_-_Ly_thuyet_-_NEO.pdf?ex=691406e6&is=6912b566&hm=e35933623613e9ed237e1984c8b62ea1c13039a311f6777fb000d9bc43287541&","type":"PDF","size":""}]'
+attachments: '[{"name":"** Chủ đề 12A **","url":"https://drive.google.com/file/d/1w5FfjzK4guFqaOnZjdcK_o7SghpXTg6i/view?usp=drive_link","type":"PDF","size":""}]'
 downloads: 0
 ---
 
